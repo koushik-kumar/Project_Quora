@@ -1,0 +1,73 @@
+.font1{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.pointer1{
+    cursor:pointer;
+}
+
+.active{
+    background-color: #E6E6E6;
+}
+
+.circle1{
+    border-radius: 50%;
+}
+
+.addcred1{
+    cursor:pointer;
+    color: #3775B1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.inputc{
+    /* padding:3px 32px 3px 5px; */
+    
+    font-size:13px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.inputcred{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inputinModal{
+    padding:3px,32px,3px,5px;
+}
+
+.inputModalHead{
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contcred{
+    background-color: #FAFAFA;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pcred{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#FAFAFA;
+}
+.icred{
+    color:#329BFF;
+}
+
+.form-control{
+    height: 25px;
+}
+
+.accountSettings{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.accountComponents{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
